@@ -61,8 +61,8 @@ By the end of this course, students will be able to...
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Midterm Project - NPS Data Analysis]                     |  Thu, January 30    |  Tue, February 11   | [Submit Assignment](makeschool.com)|
-| [Homework 1 - Histogram]                      |  Thu, February 13  |  Thu, February 20 | [Submit Assignment](makeschool.com)  |
+| [Midterm Project - NPS Data Analysis](http://make.sc/sa-nps-project)                     |  Thu, January 30    |  Tue, February 11   | [Submit Assignment](makeschool.com)|
+| [Homework 1 - Histogram](https://github.com/SamuelFolledo/DS1.1-Data-Analysis-And-Visualization/blob/master/Homework/HW1_Pandas.ipynb)                      |  Thu, February 13  |  Thu, February 20 | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 
