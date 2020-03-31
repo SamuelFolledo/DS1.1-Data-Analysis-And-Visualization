@@ -26,17 +26,17 @@ By the end of this course, students will be able to...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, March 31               | [Introduction to Data Science] |
-|  2 |  Thu, April 2               | [Simple Data Manipulation] |
-|  3 |  Tue, April 7               | [Data Manipulation & Visualization] |
-|  4 |  Thu, April 9               | [How to Combine DataFrames] |
-|  5 |  Tue, April 14               | [Applied Descriptive Statistics] |
-|  6 |  Thu, April 16               | [Applied Probability to data frame] |
+|  1 |  Tue, March 31               | [Introduction to Data Science](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Lessons/IntroductiontoDataScience.md) |
+|  2 |  Thu, April 2               | [Simple Data Manipulation](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Lessons/SimpleDataManipulation.md) |
+|  3 |  Tue, April 7               | [Data Manipulation & Visualization](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Lessons/DataManipulationVisualization.md) |
+|  4 |  Thu, April 9               | [How to Combine DataFrames](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Lessons/HowtoCombineDataFrames.md) |
+|  5 |  Tue, April 14               | [Applied Descriptive Statistics](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Lessons/AppliedDescriptiveStatistics.md) |
+|  6 |  Thu, April 16               | [Applied Probability to data frame](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Lessons/AppliedProbabilitytodataframe.md) |
 |  7 |  Tue, April 21              | [NPS Project Data Wrangling Check-in] |
-|  8 |  Thu, April 23              | [PDFs, CDFs, and Normal Distributions] |
-|  9 |  Tue, April 28              | [Hypothesis Testing & Acceptable Error] |
-| 10 |  Thu, April 30              | [Confidence Intervals, Outliers, and Statistical Analysis]|  
-| 11 |  Tue, May 5              | [Time Series Data & Applications]|
+|  8 |  Thu, April 23              | [PDFs, CDFs, and Normal Distributions](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Notebooks/PDF_CDF_Normal.ipynb) |
+|  9 |  Tue, April 28              | [Hypothesis Testing & Acceptable Error](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Lessons/HypothesisTesting.md) |
+| 10 |  Thu, April 30              | [Confidence Intervals, Outliers, and Statistical Analysis](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Notebooks/Outlier_Correlation_StatisticalAnalysis.ipynb) |  
+| 11 |  Tue, May 5              | [Time Series Data & Applications](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis/blob/master/Lessons/TimeSeriesData.md) |
 | 12 |  Thu, May 7              | [Lesson 12]|
 | 13 |  Tue, May 12                  | Final Exam |
 | 14 |  Thu, May 14                  | Presentations |
